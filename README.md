@@ -1,6 +1,6 @@
 # Technical Writing Portfolio: Learning & Practice
 
-This repository serves as a practical portfolio where I apply the principles of technical communication learned through the **Google Technical Writing** courses. As a professional with a background in **Communication and Languages**, my goal is to bridge the gap between complex engineering concepts and clear, user-friendly documentation.
+This repository is a work in progress. It serves as a practical portfolio where I apply the principles of technical communication learned through the **Google Technical Writing** courses. As a professional with a background in **Communication and Languages**, my goal is to bridge the gap between complex engineering concepts and clear, user-friendly documentation.
 
 ## 🎯 Project Objective
 The main purpose of this project is to showcase my ability to transform dense technical information into scannable, accurate, and concise content. I am currently **seeking my first professional opportunity as a Technical Writer** where I can contribute my linguistic expertise and technical documentation skills.
