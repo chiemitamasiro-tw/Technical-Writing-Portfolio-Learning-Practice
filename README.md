@@ -16,7 +16,6 @@ In this repository, you will find exercises and documentation samples that demon
 ## 📂 Repository Structure
 * `01. Audience.md`: Analysis and exercises on audience identification.
 * `02. Self-editing.md`: Practice samples on clarity, brevity, and active voice.
-* `OBJECTIVES.md`: Professional goals and portfolio overview.
 ---
 *Looking for a Technical Writer who speaks the language of both users and developers? [Let's connect!](https://www.linkedin.com/in/chiemi-tamasiro)*
 
