@@ -1,21 +1,24 @@
-# Technical Writing Portfolio: Learning & Practice
+# Technical Writing: Portfolio & Learning Practice
 
-This repository is a work in progress. It serves as a practical portfolio where I apply the principles of technical communication learned through the **Google Technical Writing** courses. As a professional with a background in **Communication and Languages**, my goal is to bridge the gap between complex engineering concepts and clear, user-friendly documentation.
+Welcome! This repository serves as my professional portfolio and sandbox, documenting my transition into **Technical Writing**. 
 
-## 🎯 Project Objective
-The main purpose of this project is to showcase my ability to transform dense technical information into scannable, accurate, and concise content. I am currently **seeking my first professional opportunity as a Technical Writer** where I can contribute my linguistic expertise and technical documentation skills.
+Here, I apply industry-best practices, content design strategies, and documentation methodologies learned through the **Google Technical Writing Courses** and independent software documentation research.
 
-## 🛠 Skills Applied
-In this repository, you will find exercises and documentation samples that demonstrate:
-* **Active Voice:** Ensuring clarity and directness in instructions.
-* **Scannability:** Effective use of lists, tables, and headers to help users find information quickly.
-* **Clarity & Brevity:** Eliminating jargon and unnecessary words to reduce cognitive load.
-* **Docs-as-Code Workflow:** Using **Markdown**, **VS Code**, and **GitHub** for version control and content management.
-* **Audience Analysis:** Writing for different proficiency levels, ensuring accessibility for global audiences.
+## 📁 Repository Structure
 
-## 📂 Repository Structure
-* `01. Audience.md`: Analysis and exercises on audience identification.
-* `02. Self-editing.md`: Practice samples on clarity, brevity, and active voice.
+Each folder represents a core technical writing competency I am mastering:
+
+* **[01. Audience](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/01.%20Audience):** Identifying target personas and tailoring technical jargon for different expertise levels.
+* **[02. Self-editing](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/02.%20Self-editing):** Practicing clarity, conciseness, and reducing cognitive load in complex sentences.
+* **[03. Organizing large docs](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/03.%20Organizing%20large%20docs):** Structuring complex documentation layouts for better user navigation.
+* **[04. Introduce a doc](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/04.%20Introduce%20a%20doc):** Crafting effective high-level introductions and outlines for software guides (F@ Language Exercise).
+* **[05. Heading exercise](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/05.%20Heading%20exercise):** Designing logical information architecture (IA) and task-based outlines for software workflows.
+
+## 🚀 Key Skills Applied
+* Information Architecture (IA) & User Journey Mapping
+* Grammatical Parallelism (Imperative, task-based headings)
+* Markdown & Git/GitHub Version Control Workflow
+* Simplifying complex technical context for software users
+
 ---
-*Looking for a Technical Writer who speaks the language of both users and developers? [Let's connect!](https://www.linkedin.com/in/chiemi-tamasiro)*
-
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/chiemi-tamasiro/) if you are looking for a proactive, detail-oriented Junior Technical Writer!*
