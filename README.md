@@ -13,6 +13,7 @@ Each folder represents a core technical writing competency I am mastering:
 * **[03. Organizing large docs](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/03.%20Organizing%20large%20docs):** Structuring complex documentation layouts for better user navigation.
 * **[04. Introduce a doc](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/04.%20Introduce%20a%20doc):** Crafting effective high-level introductions and outlines for software guides (F@ Language Exercise).
 * **[05. Heading exercise](https://github.com/chiemitamasiro-tw/Technical-Writing-Portfolio-Learning-Practice/tree/main/05.%20Heading%20exercise):** Designing logical information architecture (IA) and task-based outlines for software workflows.
+* **[06. Using LLMs](./06.%20Using%20LLMs.md):** Engineering technical prompts for LLMs.
 
 ## 🚀 Key Skills Applied
 * Information Architecture (IA) & User Journey Mapping
