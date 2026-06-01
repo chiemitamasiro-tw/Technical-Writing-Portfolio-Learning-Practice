@@ -1,0 +1,47 @@
+# Side-by-Side Model Evaluation: Constraint Compliance & Tone Consistency
+
+## 📌 Project Overview
+This project demonstrates advanced capabilities in AI output evaluation, technical documentation auditing, and linguistic quality assurance. It focuses on identifying factual errors, verifying strict constraint adherence, and analyzing information architecture in LLM-generated responses.
+
+## 🛠️ Skills Demonstrated
+* High Cognitive Load Mitigation
+* Information Architecture & Data Chunking Analysis
+* Tone Drift & Register Shift Detection
+* Strict Constraint Verification (Negative & Structural Constraints)
+* Imperative Syntax Auditing
+
+---
+
+## 💻 Evaluation Exercise
+
+### 📋 The Prompt
+> **User Prompt:** "Explain what an API is to a non-technical small business owner. Your response must follow these three constraints: 
+> 1. Use an everyday analogy (like a restaurant or a post office).
+> 2. Do not use the words 'software', 'interface', or 'protocols'.
+> 3. Keep the explanation under 100 words."
+
+---
+
+### 🤖 Model Outputs
+
+#### **Model A**
+Imagine an API as a waiter in a restaurant. You are the customer, and the kitchen is the system holding the data. When you want to order food, you don't go into the kitchen yourself. Instead, you look at the menu, tell the waiter your order, and the waiter delivers that request to the kitchen. Then, the waiter brings the food back to your table. In business, an API does exactly that: it safely takes your request to another system, gets the information you need, and brings it right back to your application.
+
+#### **Model B**
+An API is a digital messenger that connects different business tools. Think of it like a post office. You write a letter (your data request), put it in an envelope, and the postal worker delivers it to the destination. The receiver then sends a response back through the same service. This interface allows your online store to talk to your accounting system automatically without manual export-import tasks. It handles all backend protocols safely, ensuring your small business software components integrate smoothly to save you time.
+
+---
+
+### 📝 Technical Justification & Selection
+
+**Winner:** **Model A** is the superior response as it strictly adheres to the requested tone and all formatting guidelines specified in the prompt.
+
+#### 1. Structural Compliance and Cognitive Load (Model A)
+Passage A strictly adheres to the requested tone and all three constraints provided by the prompt. It prioritizes clarity and accessibility over technical accuracy. The start of the passage ("Imagine that ...") and the imperative syntax convey an instructional tone. Also, the narrative structure reduces the cognitive load for the non - technical reader:
+- using short sentences
+- using the active voice 
+- addressing the reader directly (use of personal pronoun "You")
+
+### 2. Constraint Violations and Tone Drift (Model B)
+ Conversely, passage B fails the second constraint (Do not use the words 'software', 'interface', or 'protocols'). Also, it exhibits a severe tone drift,  shift in register and stylistic inconsistency. Passage B transitions abruptly from a simplified analogy of a post office in the first half, to a second half that reads like unedited technical documentation, and fails to maintain the cognitive accessibility required for a non-technical small business owner. All in all, the response introduces high cognitive load due to poor information architecture, lexical choices and a lack of data chunking. This narrative structure doesn't enhance the non - technical tone that conveys clarity and accessibility to the non - technical reader. 
+Additionally, the text exhibits a severe tone drift, a sharp shift in register, and a lack of stylistic consistency. While the first half starts well with a simplified analogy of a post office, the second half transitions abruptly into unedited technical documentation. This sudden increase in jargon-heavy syntax fails to maintain the cognitive accessibility required for a small business owner. Ultimately, Model B introduces a high cognitive load due to poor information architecture and a lack of data chunking, producing an unstructured narrative that fails to convey clarity to the end-user.
